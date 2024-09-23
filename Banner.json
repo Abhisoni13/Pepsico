@@ -1,7 +1,7 @@
 {
   "firstLine": true,
   "BannerMessage": [
-  "Welcome to our Application!",
-  "nsdjifviufdshdvius."
+    "This is a default message.",
+    "This is the actual banner message."
   ]
 }
